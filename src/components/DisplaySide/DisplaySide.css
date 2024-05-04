@@ -1,0 +1,17 @@
+#DisplaySideContainer {
+    width: 100%;
+}
+
+#myCanvas {
+    border: 1px solid black;
+    padding: 250px;
+    margin: 50px;
+}
+
+#dataContainer {
+    margin-top: 25px;
+}
+
+#dataContainer > p {
+    margin-top: 10px;
+}
